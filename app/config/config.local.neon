@@ -1,0 +1,7 @@
+parameters:
+	database:
+		driver: mysql
+		host: localhost
+		dbname: machr_knihy
+		user: admin
+		password: admin
